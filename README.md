@@ -206,7 +206,7 @@ ETL proces v Snowflake umožnil spracovanie pôvodných dát z `.csv` formátu d
 Dashboard obsahuje `5 vizualizácií`, ktoré poskytujú základný prehľad o kľúčových metrikách a trendoch týkajúcich sa hudby. Tieto vizualizácie odpovedajú na dôležité otázky a umožňujú lepšie pochopiť správanie používateľov a ich preferencie.
 
 <p align="center">
-  <img src="https://github.com/R3tr066/DT-projekt-chinook/blob/master/Chinook%20(MySQL)/chinook_dashboard.png" alt="chinook dashboard">
+  <img src="https://github.com/R3tr066/DT-projekt-chinook/blob/master/Chinook%20(MySQL)/chinook%20_dashboard.png" alt="chinook dashboard">
   <br>
   <em>Obrázok 3 Dashboard Chinook datasetu</em>
 </p>
